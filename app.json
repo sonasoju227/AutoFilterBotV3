@@ -1,7 +1,7 @@
 {
     "name": "Auto Filter Bot V3",
     "description": "A greater auto filter bot with features like IMDb support,inline mode,broadcast feature etc..",
-    "logo":"https://telegra.ph/file/ad9cb7fc42ec0e5e6d006.jpg",
+    "logo":"https://telegra.ph/file/c8c16461ccc9d726dfc5e.jpg",
     "keywords": [
       "telegram",
       "auto-filter",
@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/DalinMathew/AutoFilterBotV3",
-    "repository": "https://github.com/DalinMathew/AutoFilterBotV3",
+    "website": "https://github.com/LXR-YOUTUBER-AMAL/AutoFilterBotV3",
+    "repository": "https://github.com/LXR-YOUTUBER-AMAL/AutoFilterBotV3",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
@@ -45,7 +45,7 @@
         },
         "FORCES_SUB": {
             "description": "ID of channel.Make sure bot is admin in this channel. Without subscribing this channel users cannot use bot.",
-            "value": "",
+            "value": "-1001453349235",
             "required": false
         },
         "START_MSG": {
@@ -79,7 +79,7 @@
         },
         "BOT_NAME": {
             "description": "Name of the database in mongoDB ",
-            "value": "LuciferMoringstar_Robot"
+            "value": "꧁༺෴✟LXR YOTUBER✟෴༻꧂"
         },
         "COLLECTION_NAME": {
             "description": "Name of the collections. Defaults to Telegram_files. If you are using the same database, then use different collection name for each bot",
