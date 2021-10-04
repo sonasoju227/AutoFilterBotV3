@@ -1,11 +1,11 @@
 
 
-![GitHub Repo stars](https://img.shields.io/github/stars/DalinMathew/AutoFilterBotV3?style=social)
-<img src="https://img.shields.io/github/forks/DalinMathew/AutoFilterBotV3?style=social"></img>
+![GitHub Repo stars](https://img.shields.io/github/stars/LXR-YOUTUBER-AMAL/AutoFilterBotV3?style=social)
+<img src="https://img.shields.io/github/forks/LXR-YOUTUBER-AMAL/AutoFilterBotV3?style=social"></img>
 ## How To Deploy Video
-<a href="https://youtu.be/5hnYOKBzyi8"><img src="https://img.shields.io/badge/How%20To%20Deploy-blue.svg?logo=Youtube"></a> <img src="https://img.shields.io/youtube/views/5hnYOKBzyi8?style=social">
+<a href="https://youtube.com/channel/UCqRmM0N9Z-7bBiTqJsfFWwg"><img src="https://img.shields.io/badge/How%20To%20Deploy-blue.svg?logo=Youtube"></a> <img src="https://img.shields.io/youtube/views/5hnYOKBzyi8?style=social">
 ## Subscribe YouTube Channel
-<a href="https://youtube.com/NaughtyPROFESSOR"> <img src="https://img.shields.io/youtube/channel/subscribers/UCU3Hg3qJJrIaC_0Gw7MLT1A?V?label=Subscribers&style=for-the-badge&color=red&labelColor=ce463"/> </a>
+<a href="https://youtube.com/LXRYOUTUBER"> <img src="https://img.shields.io/youtube/channel/subscribers/UCU3Hg3qJJrIaC_0Gw7MLT1A?V?label=Subscribers&style=for-the-badge&color=red&labelColor=ce463"/> </a>
 
 #### Added Features
 * Imdb posters for autofilter.
@@ -20,7 +20,7 @@
 
 #### Deploy To Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DalinMathew/AutoFilterBotV3)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/LXR-YOUTUBER-AMAL/AutoFilterBotV3)
 
 #### Hard Way
 ```bash
@@ -72,10 +72,11 @@ Once a poster is fetched from OMDB , poster is saved to DB to reduce duplicate r
 
 ## Thanks to 
 * [Pyrogram](https://github.com/pyrogram/pyrogram)
-* [Original Repo](https://github.com/Mahesh0253/Media-Search-bot)
-* [subinps](https://github.com/subinps/Media-Search-bot)
+* [Original Repo](https://github.com/LXR-YOUTUBER-AMAL/Media-Search-bot)
+* [LXR YOUTUBER](https://github.com/LXR-YOUTUBER-AMAL/Media-Search-bot)
+* [Re Edited By](https://t.me/LXRBOTSGROUP)
 * [Editing Muhammed Rk](https://github.com/PR0FESS0R-99/LuciferMoringstar_Robot)
-* [Mo Tech YT](https://t.me/Mo_Tech_Group)
+* [LXRBOTS](https://t.me/LXRBOTSGROUP)
 * [Lucifer Morningstar](@Lucifer_Devil_AD)
 
 ## License
