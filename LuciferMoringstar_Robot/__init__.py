@@ -30,7 +30,7 @@ Bot Owner Only
 ABOUT = """
 ➥ Name :  Auto Filter V3
     
-➥ Creator : [Naughty PROFESSOR](www.youtube.com/C/NaughtyPROFESSOR)
+➥ Creator : [LXR YOUTUBER](www.youtube.com/C/LXRYOUTUBER)
 
 ➥ Language : Python3
 
