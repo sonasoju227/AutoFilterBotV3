@@ -79,7 +79,7 @@
         },
         "BOT_NAME": {
             "description": "Name of the database in mongoDB ",
-            "value": "꧁༺෴✟LXR YOTUBER✟෴༻꧂"
+            "value": "LuciferMoringstar_Robot"
         },
         "COLLECTION_NAME": {
             "description": "Name of the collections. Defaults to Telegram_files. If you are using the same database, then use different collection name for each bot",
