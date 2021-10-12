@@ -53,6 +53,11 @@
             "value": "**Hi, I'm Auto Filter Bot With Greater Abilities**",
             "required": false
         },
+        "START_IMG": {
+            "description": "Use This Bot @HK_telegraph_BOT
+            "value": "https://telegra.ph/file/da19dda0d22cd8e414b3a.jpg"
+            "required": false
+        },
         "USE_CAPTION_FILTER": {
             "description": "Whether bot should use captions to improve search results. (True False)",
             "value": "False",
